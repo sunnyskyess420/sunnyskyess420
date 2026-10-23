@@ -17,4 +17,8 @@ I build **small, cozy tools that make hard days easier** (and one very fun wallp
 - **[Emotion Mapper](https://github.com/sunnyskyess420/emotion-mapper-web)** - log emotions, track intensity, export your data | [live](https://sunnyskyess420.github.io/emotion-mapper-web/)
 - **[williamsstrains](https://github.com/sunnyskyess420/williamsstrains)** - the 500+ strain directory (just for fun) | [live](https://sunnyskyess420.github.io/williamsstrains/)
 
+## Sports & Schedules
+
+- **[NHL Calendar 26-27](https://github.com/sunnyskyess420/nhl-calendar26-27)** - your 2026-27 NHL season schedule
+
 Edmonton, Alberta
