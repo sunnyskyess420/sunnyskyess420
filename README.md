@@ -19,6 +19,6 @@ I build **small, cozy tools that make hard days easier** (and one very fun wallp
 
 ## Sports & Schedules
 
-- **[NHL Calendar 26-27](https://github.com/sunnyskyess420/nhl-calendar26-27)** - your 2026-27 NHL season schedule
+- **[NHL Calendar 26-27](https://github.com/sunnyskyess420/nhl-calendar26-27)** - your 2026-27 NHL season schedule | [live](https://nhl-calendar26-27.vercel.app/)
 
 Edmonton, Alberta
