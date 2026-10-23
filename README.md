@@ -1,6 +1,6 @@
 # Hi, I'm Amber
 
-I build **small, cozy tools that make hard days easier** (and one very fun wallpaper studio).
+I build **small, cozy tools** for hard days, for fun, and for your walls.
 
 ## FrogPaper - a cozy AI wallpaper studio
 
