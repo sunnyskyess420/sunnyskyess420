@@ -15,7 +15,10 @@ I build **small, cozy tools that make hard days easier** (and one very fun wallp
 - **[Tender Hours](https://github.com/sunnyskyess420/Tender-Hours)** - a gentle schedule for healing | [live](https://tender-hourz.vercel.app)
 - **[Worry Window](https://github.com/sunnyskyess420/worry-window)** - park a worry, give it one 10-minute window | [live](https://sunnyskyess420.github.io/worry-window/)
 - **[Emotion Mapper](https://github.com/sunnyskyess420/emotion-mapper-web)** - log emotions, track intensity, export your data | [live](https://sunnyskyess420.github.io/emotion-mapper-web/)
-- **[williamsstrains](https://github.com/sunnyskyess420/williamsstrains)** - the 500+ strain directory (just for fun) | [live](https://sunnyskyess420.github.io/williamsstrains/)
+
+## Just for fun
+
+- **[williamsstrains](https://github.com/sunnyskyess420/williamsstrains)** - the 500+ strain directory | [live](https://sunnyskyess420.github.io/williamsstrains/)
 
 ## Sports & Schedules
 
